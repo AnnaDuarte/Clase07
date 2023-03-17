@@ -1,0 +1,109 @@
+body {
+    background-color: midnightblue;
+} 
+h1 {
+    font-size: 4vw; font-family: Arial, Helvetica, sans-serif;
+    border-color: aliceblue;
+    background-color: whitesmoke;
+    text-align: center;
+    color:midnightblue;
+    padding: 35px;
+    margin: 3vw 10vw
+}
+.p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-style: oblique;
+    font-weight: 400
+    direction: ltr; /*left to right, right to left */
+    letter-spacing: 8px;
+    line-height: 2;
+    word-spacing: 6px;
+    /*white-space: nowrap; /*descomentar esta linea para ver la diferencia*/
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.363); /*1px de sombra horizontal y vertical*/
+    /*text-shadow: 1px 1px 5px red; /* efecto de 10px de desenfoque */
+}
+
+.p2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-style: initial;
+    font-weight: 400
+    direction: ltr; /*left to right, right to left */
+    letter-spacing: 2px;
+    line-height: 2;
+    word-spacing: 3px;
+    /*white-space: nowrap; /*descomentar esta linea para ver la diferencia*/
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.363); /*1px de sombra horizontal y vertical*/
+    /*text-shadow: 1px 1px 5px red; /* efecto de 10px de desenfoque */
+}
+
+.p3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: midnightblue;
+    text-align: center;
+    font-style: normal;
+    font-weight: 100
+    direction: ltr; /*left to right, right to left */
+    letter-spacing: 0px;
+    line-height: 2;
+    word-spacing: 3px;
+    /*white-space: nowrap; /*descomentar esta linea para ver la diferencia*/
+    text-shadow: 1px 1px rgba(0, 0, 0, 0.363); /*1px de sombra horizontal y vertical*/
+    /*text-shadow: 1px 1px 5px red; /* efecto de 10px de desenfoque */
+    border-color: aliceblue;
+    background-color: whitesmoke;
+    padding: 35px;
+    margin: 3vw 10vw
+}
+
+.google {
+  font-family: "Trirong", serif;
+  color: rgb(255, 255, 255);
+    text-align: center;
+    font-style: initial;
+    font-weight: bolder;
+    font-size: x-large;
+}
+
+.size {
+    font-family: "Trirong", serif;
+    color: rgb(255, 255, 255);
+      text-align: center;
+      font-style: initial;
+      font-weight: normal;
+      font-size: xx-large;
+  }
+
+.weight {
+    font-family: "Trirong", serif;
+    color: rgb(255, 255, 255);
+      text-align: center;
+      font-style: initial;
+      font-weight: bolder;
+      font-weight: 900;
+      font-size: normal;
+  }
+
+.color {
+    font-family: "Trirong", serif;
+    color: rgb(187, 255, 0);
+      text-align: center;
+      font-style: oblique;
+      font-weight: normal;
+      font-size: normal;
+  } 
+
+.div {
+    font-size: 4vw; font-family: Arial, Helvetica, sans-serif;
+    border-color: aliceblue;
+    background-color: whitesmoke;
+    text-align: center;
+    color:midnightblue;
+    font-weight: normal;
+    font-size: xx-large;
+    padding: 35px;
+    margin: 3vw 10vw
+}
